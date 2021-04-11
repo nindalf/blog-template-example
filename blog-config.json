@@ -1,0 +1,9 @@
+{
+    "author": "John Smith",
+    "description": "John's personal blog",
+    "bio": "I'm a simple man",
+    "imageUrl": "/images/avatar.jpg",
+    "baseUrl": "https://john.smith.com",
+    "readingSpeedPerMin": 200,
+    "postsDirectory": "../content/posts"
+}
